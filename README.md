@@ -50,3 +50,6 @@ Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONT
 > **Note:** Contributions are not accepted in the master branch. If you like to contribute check out [v5 branch](https://github.com/SudhanPlayz/Discord-MusicBot/tree/v5)
 
 Made with :heart: and JavaScript!
+
+
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
